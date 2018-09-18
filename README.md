@@ -84,7 +84,7 @@ class Hello extends Component {
 만약 **this.state.name**이 "Tom"으로 바뀐다면 당연히 "Hello James" "My name is Tom" 이렇게 출력 될 것이다. 
 
 이때 React에서는 일반 브라우져의 리렌더링 과정과 다른 과정이 일어나는데 바로 Virtual DOM이 사용된다.
-기존 Component Tree의 DOM과 현재 변경된 Componenet를 비교하여 변경된 Component만 변경하고 DOM자체를 갱신한다.(심지어 알고리즘션산을 통해 비교하여 컴포넌트는 사라지지않고 속성값만 변경한다)
+기존 Component Tree의 DOM과 현재 변경된 Componenet를 비교하여 변경된 Component만 변경하고 DOM자체를 갱신한다.(심지어 알고리즘을 통해 비교하여 컴포넌트는 사라지지않고 속성값만 변경한다)
 
 이로 인해 브라우져의 리플로를 최소화되고 성능을 최대화 할수있다.
 
