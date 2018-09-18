@@ -9,7 +9,7 @@
 
 <br /><br />
 
-## 1. 자비스크립트 라이브러리의 변화와 React
+## 1. Javascript의 변화와 React
 
 
 >최근 몇년 동안 웹개발 관련 기술은 수많은 변화를 격고있다.
@@ -276,8 +276,6 @@ Etc(Mocha, Jasmine, QUnit)
 >[Front-end Frameworks – Results 2017](https://2017.stateofjs.com/2017/front-end/results/)
 >
 >[왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
->
->[토끼와 거북이: 토끼는 왜 멈춰 섰을까?](https://youtu.be/u5QpfAUUxGc)
 >
 >[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 >
