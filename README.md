@@ -96,18 +96,8 @@ class Hello extends Component {
 + 서버따로 클라이언트따로 작성하던 코드가 하나로 합쳐짐
 + SEO: SPA-API 방식의 애플리케이션의 단점을 보완
 
-## 그리고 이 모든 것을 `Javascript`로 개발 할 수있다.
+>그리고 이 모든 것을 `Javascript`로 개발 할 수있다.
 
-<br />
-
-사실 프레임워크나 라이브러리들은 필요에 따라, 팀의 개발 효율성을 고려한 선택에 따라 사용하는 대상이지, 특정한 대세에 따라 도입되어야 할 부분은 아니다. 
-
-반대로 어떠한 필요로 인해서, 구축해야 하는 서비스에 따라서, GitHub, Stack over flow등 레퍼런스가 충분하다면 고려 해볼 수있을 것이다.
-
-
-이러한 이유에서 Facebook을 비롯하여 Airbnb, Netflix, Dropbox, Twitter, Evernote, Uber 등 선도적인 서비스들이 React를 사용하고있다. 그들 모두가 리액트와 그 생태계에 만족하며 리액트의 발전을 위해 적극적으로 투자하고 기술을 발전 시켜나가고 있다.
-
-참고: [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 
 <br />
 
@@ -214,7 +204,18 @@ JSX에 대한 거부감이 들고 적응이 안된다면 vue의 템플릿이 상
 > 결론
 
 최고의 기술을 도입하는것이 목적이어서는 안된다. 모두 장점, 단점을 가지고 있기 때문이다.
-최고의 기술이 아닌 최적의 기술, 목적에 부합하는 효율적인 기술을 도입해야한다. 
+사실 프레임워크나 라이브러리들은 필요에 따라, 팀의 개발 효율성을 고려한 선택에 따라 사용하는 대상이지, 특정한 대세에 따라 도입되어야 할 부분은 아니다. 
+
+
+반대로 어떠한 필요로 인해서, 구축해야 하는 서비스에 따라서, GitHub, Stack over flow등 레퍼런스가 충분하다면 고려 해볼 수있을 것이다.
+
+이러한 이유에서 Facebook을 비롯하여 Airbnb, Netflix, Dropbox, Twitter, Evernote, Uber 등 선도적인 서비스들이 React를 사용하고있다. 그들 모두가 리액트와 그 생태계에 만족하며 리액트의 발전을 위해 적극적으로 투자하고 기술을 발전 시켜나가고 있다.
+
+<br/>
+
+> 사족 
+
+[토끼와 거북이: 토끼는 왜 멈춰 섰을까?](https://youtu.be/u5QpfAUUxGc)
 
 개발자를 위한 개발을 해야한다.
 
@@ -223,13 +224,18 @@ JSX에 대한 거부감이 들고 적응이 안된다면 vue의 템플릿이 상
 부정하지 않았다. 하지만 '요구사항을 만족시키는것이 고객을 위한것이라면 그건 `기본`이고 확장, 운영, 유지보수까지 고려해야한다는건 생각을 못하고있다'
 라고 판단이 되었다.
 
-[토끼와 거북이: 토끼는 왜 멈춰 섰을까?](https://youtu.be/u5QpfAUUxGc)
+현재 자바스크립트를 포함한 프로그래밍 언어들은 개발자를 위한 생산성 향상에 촛점을 두고 지속적인 변화 중 이다.
+ 
+
+
+
 
 <br/><br/>
 
 
 
 ## 3. React를 도입하기 위한 기초지식
+
 react
 
 nodejs
@@ -263,4 +269,6 @@ Etc(Mocha, Jasmine, QUnit)
 >[왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
 >
 >[토끼와 거북이: 토끼는 왜 멈춰 섰을까?](https://youtu.be/u5QpfAUUxGc)
+>
+>[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
 >
