@@ -20,7 +20,7 @@
 
 Javascript는 과거 HTML문서의 vaildation처리 정도의 수준에서 활용되었지만, 브라우져 없이 서버에서 작동하고 코드가 간결하며, 상대적으로 빠른 도입과 적용이 가능하게 되면서 많은 사이트가 자바스크립트 프레임 워크, 라이브러리를 사용하여 개발 되고 프레임워크가 변경되고 새로운 라이브러리가 나오고 있다.
 
-프론트엔드에서  템플릿, 모델, 이벤트를 분리 작업 할 수있는 Client side MVC패턴으로 개발을 할 수있는 [Backbone.js](https://backbonejs.org)라이브러리가 인기를 얻으면서 본격적인 프론트엔드 프레임워크들이 발표된다. 대표적으로 [Ember](https://emberjs.com), [Knockout](https://knockoutjs.com/) 그리고 [Angular JS](https://Angularjs.org)가 발표되어 끝판왕으로 군림한다.
+프론트엔드에서  템플릿, 모델, 이벤트를 분리하여 Client side MVC패턴으로 개발을 할 수있는 [Backbone.js](https://backbonejs.org)라이브러리가 인기를 얻으면서 본격적인 프론트엔드 프레임워크들이 발표된다. 대표적으로 [Ember](https://emberjs.com), [Knockout](https://knockoutjs.com/) 그리고 [Angular JS](https://Angularjs.org)가 발표되어 끝판왕으로 군림한다.
 
 AngularJS는 개발속도, Javascript의 코드량 축소, MVC패턴으로 얻는 장점(코드 컨벤션등) 그밖에 많은 장점을 갖고 있으며, 모바일에서 속도 문제, 러닝커브, 페이지 깜빡임, 뒤로가기시 새로로딩, 외부 서비스 콜백처리의 모호함 - 새로운 버전에서 많은 부분이 개선됨 - 등의 단점이 있다. 하지만 몇번의 업데이트 이슈와 여전히 존재하는 단점에도 불구하고 인기가 있고 여전히 많은 웹 서비스에서 사용되고 있다.
 
@@ -177,6 +177,8 @@ React는 view를 컴포넌트 단위로 개발하며 각각의 컴포넌트는 �
 <img src="https://cdn-images-1.medium.com/max/800/1*IWIeZaJGBd82ZnIk4vYtnw.png" width="600" height="250" /><br/>
 view.js월별 다운로드 수
 <br /><br />
+
+
 
 <img src="https://cdn-images-1.medium.com/max/800/1*AOyTSi4Fs5uKNHZoyFcfHQ.png" width="600" height="250" /><br/>
 Angular.js월별 다운로드 수
