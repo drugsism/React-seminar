@@ -45,7 +45,7 @@ React는 MVC프레임워크는 아니고 User Interface(View)를 만드는 라�
 >Virtual DOM 
 
 ```
-Facebook에서는 DOM을 직접 계산하지 않고 내부적으로 빠르게 diff를 계산하는 알고리즘을 고안한다. 
+Facebook에서는 DOM을 직접 변경하지 않고 내부적으로 빠르게 diff를 계산하는 알고리즘을 고안한다. 
 마치 git을 사용하듯이 변경된 부분만 찾아서 빠르게 화면을 렌더링 할 수 있게 해준다.
 ```
 
