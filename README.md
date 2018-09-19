@@ -264,20 +264,13 @@ Etc(Mocha, Jasmine, QUnit)
 
 
 
-#### 참고문서:
+> 참고문서:
 
 
->[react.org](https://reactjs.org/)
->
->[Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
->
->[2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
->
->[frank chimero: everything-easy-is-hard-again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
->
->[Front-end Frameworks – Results 2017](https://2017.stateofjs.com/2017/front-end/results/)
->
->[왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
->
->[Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
->
++ [react.org](https://reactjs.org/)
++ [Top JavaScript Libraries & Tech to Learn in 2018](https://medium.com/javascript-scene/top-javascript-libraries-tech-to-learn-in-2018-c38028e028e6)
++ [2018년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크](https://d2.naver.com/helloworld/3259111)
++ [frank chimero: everything-easy-is-hard-again](https://frankchimero.com/writing/everything-easy-is-hard-again/)
++ [Front-end Frameworks – Results 2017](https://2017.stateofjs.com/2017/front-end/results/)
++ [왜 React와 서버 사이드 렌더링인가?](https://subicura.com/2016/06/20/server-side-rendering-with-react.html)
++ [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
