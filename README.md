@@ -269,7 +269,7 @@ flux(redux)
 Etc(Mocha, Jasmine, QUnit)
 
 ## 4. Getting Started
-....
+### [Laravel - Reactjs](https://github.com/drugsism/React-seminar/tree/master/laravel-react)
 
 
 
