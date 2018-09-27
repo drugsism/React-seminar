@@ -1,11 +1,9 @@
 
 <br /><br />
-<center>
 
-[![React](https://www.import.io/wp-content/uploads/2017/10/React-logo-300x140.png)](https://reactjs.org/)
-
-</center>
-
+<p align="center">
+<img src="https://www.import.io/wp-content/uploads/2017/10/React-logo-300x140.png"  />
+</p>
 
 <br /><br />
 
@@ -52,9 +50,9 @@ Facebook에서는 DOM을 직접 변경하지 않고 내부적으로 빠르게 di
 브라우져는 보통 다음과 같은 과정을 통해 화면을 그려낸다.
 
 <br />
-
-![Web Work flow](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/webkitflow.png)
-
+<p align="center">
+<img src="https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/webkitflow.png"  />
+</p>
 <br />
 
 외부에서 DOM의 변경이 일어나면 DOM Tree를 재구성하고 Attachment하여 Render Tree를 재구성한다. 이때 브라우져가 판단하여 리플로(Layout), 리페인트(Painting)이 일어난다.
@@ -93,8 +91,10 @@ class Hello extends Component {
 <br />
 
 >서버사이드 렌더링을 고려한 설계
-
+<p align="center">
 <img src="https://subicura.com/assets/article_images/2016-06-20-server-side-rendering-with-react/client-side-vs-server-side.png" width="600" height="450" />
+</p>
+
 
 서버 사이드 렌더링의 장점
 
@@ -115,8 +115,10 @@ class Hello extends Component {
 
 ## 2. 왜 React인가?
 <br />
-
+<p align="center">
 <img src="https://rhostem.github.io/static/6-react-rising-ccef8a80b6799036efdacba0ea3b3dba-9056e.png" width="600" height="350" />
+</p>
+
 
 >2017 javascript 라이브러리와 프레임워크 관련 채용정보 통계(출처: [indeed.com](https://kr.indeed.com/?r=us))
 
@@ -173,19 +175,26 @@ React는 view를 컴포넌트 단위로 개발하며 각각의 컴포넌트는 �
 
 
 <br />
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*IWIeZaJGBd82ZnIk4vYtnw.png" width="600" height="250" />
+</p>
+<p align="center">view.js월별 다운로드 수</p>
 
-<img src="https://cdn-images-1.medium.com/max/800/1*IWIeZaJGBd82ZnIk4vYtnw.png" width="600" height="250" /><br/>
-view.js월별 다운로드 수
+<br /><br />
+
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*AOyTSi4Fs5uKNHZoyFcfHQ.png" width="600" height="250" />
+</p>
+<p align="center">Angular.js월별 다운로드 수</p>
+<br /><br />
+
+<p align="center">
+<img src="https://cdn-images-1.medium.com/max/800/1*XKJokKyWBzwqNgG2Nzckiw.png" width="600" height="250" />
+</p>
+<p align="center">react.js월별 다운로드 수</p>
 <br /><br />
 
 
-
-<img src="https://cdn-images-1.medium.com/max/800/1*AOyTSi4Fs5uKNHZoyFcfHQ.png" width="600" height="250" /><br/>
-Angular.js월별 다운로드 수
-<br /><br/>
-<img src="https://cdn-images-1.medium.com/max/800/1*XKJokKyWBzwqNgG2Nzckiw.png" width="600" height="250" /><br/>
-react.js월별 다운로드 수
-<br /><br/>
 
 ```
 Vue.js의 성장 속도는 React보다 빠르다. 왜 2017년의 React vs Angular의 구도와는 다른 것일까?
