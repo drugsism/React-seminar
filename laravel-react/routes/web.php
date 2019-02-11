@@ -16,3 +16,6 @@ Route::get('/', function () {
     // $userone = DB::table('users')->first();
     // return json_encode($userone);
 });
+
+Route::get('login', 'loginController@index');
+Route::get('userinfo', 'loginController@index');

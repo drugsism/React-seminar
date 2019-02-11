@@ -21,3 +21,6 @@ Route::resource('test', 'Api\TestController');
 Route::resource('getUsers1', 'Api\TestController@getUserSet');
 Route::get('getUsers', 'Api\UserController@getUserSet');
 Route::get('getWorkouts', 'Api\UserController@getWorkouts');
+
+
+Route::get('login', 'loginController@login');
